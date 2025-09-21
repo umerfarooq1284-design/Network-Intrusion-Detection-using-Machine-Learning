@@ -17,15 +17,21 @@ This project focuses on detecting Distributed Denial of Service (DDoS) attacks u
 ## Models Implemented
 # 1. Random Forest
 Pipeline: Data preprocessing → Train-test split → Random Forest Classifier → Evaluation
+
 Pros: Handles high-dimensional data, interpretable feature importance, robust against overfitting.
+
 Cons: Slower on large datasets, may require hyperparameter tuning.
 # 2. XGBoost
 Pipeline: Data preprocessing → Train-test split → XGBoost Classifier → Evaluation
+
 Pros: High accuracy, efficient with boosting, handles imbalanced data well.
+
 Cons: Sensitive to hyperparameters, longer training time than Random Forest.
 # 3. LightGBM
 Pipeline: Data preprocessing → Train-test split → LightGBM Classifier → Evaluation
+
 Pros: Very fast training, lower memory usage, excellent accuracy on large datasets.
+
 Cons: Can overfit on small datasets, harder to interpret compared to Random Forest.
 
 ## Results (Sample)
