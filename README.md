@@ -45,6 +45,7 @@ pip install -r requirements.txt
 
 ## How to Run
 Open the Jupyter Notebook and execute the cells:
+
 jupyter notebook project.ipynb
 
 ## Future Work
