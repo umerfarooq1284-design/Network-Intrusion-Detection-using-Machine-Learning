@@ -38,7 +38,9 @@ Best Model: LightGBM (highest accuracy & efficiency).
 
 ## Installation
 git clone https://github.com/umerfarooq1284-design/Network-Intrusion-Detection-using-Machine-learning.git
+
 cd Network-Intrusion-Detection-using-Machine-learning
+
 pip install -r requirements.txt
 
 ## How to Run
