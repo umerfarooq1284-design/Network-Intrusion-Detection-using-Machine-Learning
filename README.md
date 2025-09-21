@@ -34,6 +34,7 @@ Cons: Can overfit on small datasets, harder to interpret compared to Random Fore
 | Random Forest | 98.45%   | 98.40%    | 98.50% | 98.45%   |
 | XGBoost       | 99.10%   | 99.05%    | 99.15% | 99.10%   |
 | LightGBM      | 99.30%   | 99.25%    | 99.35% | 99.30%   |
+
 Best Model: LightGBM (highest accuracy & efficiency).
 
 ## Installation
